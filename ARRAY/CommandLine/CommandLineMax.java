@@ -1,4 +1,4 @@
-/*Accept ‘n’ integers from a command line & print Maximum number from it.*/
+/*Accept ‘n’ integers from a command line & print Maximum and Minimun number from it.*/
 
 
 
@@ -41,6 +41,7 @@ import java.util.*;
 
 				}
 	}
+
 
 
 
